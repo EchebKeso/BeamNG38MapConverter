@@ -2,6 +2,8 @@
 
 A tool to migrate BeamNG.drive custom maps from older versions to 0.38+ by converting material texture paths to be compatible with the new central asset system. I'm not an expert in BeamNG modding - so am not sure at which version the JSON materials manifests were introduced!
 
+Of course, make backups of all your map files before trying this.
+
 ## Quick Start
 
 ### Prerequisites
