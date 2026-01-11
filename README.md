@@ -126,12 +126,6 @@ The tool provides three levels of output:
 - **Warning:** Non-critical issues (duplicate keys, missing config)
 - **Debug (`--debug` flag):** Detailed step-by-step processing information
 
-### Safety
-- Creates backups by design (when using zip input, original remains unchanged)
-- Non-destructive path updates (only modifies necessary references)
-- Validates all operations before making changes
-- Graceful error handling with clear error messages
-
 ---
 
 ## Troubleshooting
