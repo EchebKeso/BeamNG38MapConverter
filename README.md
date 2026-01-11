@@ -144,8 +144,7 @@ The tool provides three levels of output:
 
 **Some textures still missing after conversion:**
 - Try running with `--debug` to see detailed search results
-- The texture may not exist in your BeamNG.drive installation
-- Some custom textures may need to be manually placed in `art/remote_assets/`
+- The map may not be compatible for this conversion tool. (too old?)
 
 ---
 
