@@ -30,7 +30,7 @@ BeamNG38MapConverter.exe --targetlevel "C:\path\to\map.zip" --targetmapname "you
 
 **For example:**
 ```cmd
-BeamNG38MapConverter.exe --targetlevel "C:\path\to\map.zip" --targetmapname "your_map_name"
+BeamNG38MapConverter.exe  --targetlevel "E:\Games\BeamNGServer\Resources\Client\nb 152 reshjemheia 0.3.1 BNG0.37 compatible.zip" --targetmapname Reshjemheia
 ```
 
 When processing a zip file, the tool will automatically extract it, perform the conversion, and create an `output.zip` file in the current directory.
